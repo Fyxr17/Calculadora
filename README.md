@@ -1,2 +1,2 @@
 # Calculadora
-esta es una calculadora simple con windows form
+esta es una calculadora con windows form
